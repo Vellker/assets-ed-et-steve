@@ -12,7 +12,7 @@
             "myTiles.transparency16",
             "sprites.castle.tileGrass2"
         ],
-        "displayName": "level"
+        "displayName": "test2"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

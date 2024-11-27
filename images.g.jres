@@ -2,7 +2,7 @@
     "image1": {
         "data": "hwQQABAAAAAAAwAAAAAAAAADAAAAAAAAADMzMwMAAAAAAwAAAAAAAAADMzMDAAAAAAADAwMAAAAAADMDAwAAAAAAAAAAAAAAAAAzAwMAAAAAAAMDAwAAAAADAzMDAAAAAAMAAAAAAAAAMzMzAwAAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage"
+        "displayName": "test1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
